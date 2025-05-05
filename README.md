@@ -133,8 +133,14 @@ continues?
 • What is Doze Mode and how does it affect background tasks and services?
 
 • Why were data classes created? were they a thing in java as well? what functions do data class offer that normal classes do not?
+
 • What is a memory leak, show me an example of a memory leak and how can you detect / fix them?
+
 • Can you compare R8 and Proguard? why do we need them in the first place?
+
 • Is it possible for an activity to run onDestroy() without running onPause() or onStop() first? If so give an example
+
 • what is the difference between const val and val?
+
 • If kotlin introduces null-safety, how did apps handle nullability in java? does null-safety in kotlin mean you can never get a NPE?
+
