@@ -17,7 +17,7 @@ A collection of interview questions I've seen in interviews over the years :)
 
 • What is reified in Kotlin?
 
-What concurrency utilities exist in Android?
+• What concurrency utilities exist in Android?
 
 • What is a race condition?
 
