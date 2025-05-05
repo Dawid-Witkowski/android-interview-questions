@@ -1,5 +1,5 @@
 # android-interview-questions
-A collection of interview questions I've seen in interviews over the years :)
+A collection of interview questions I've seen over the years :)
 
 • What is method overloading and overriding?
 
